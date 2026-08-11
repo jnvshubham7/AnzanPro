@@ -1,32 +1,23 @@
-
 # 📱 ANZANPRO - Short README
 
 ## 🎯 Overview
 
 **AnzanPro** is a comprehensive digital abacus learning platform developed over **6 months** with **2000+ commits**. The project consists of two specialized mobile applications designed to make mental math learning interactive and effective.
 
-
-
 ## Screenshots
-<p float="left">
-  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/1.png" width="200" />
-  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/2.png" width="200" />
-  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/2_1.png" width="200" />
-  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/3.png" width="200" />
-  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/4.png" width="200" />
-  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/5.png" width="200" />
-  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/6.png" width="200" />
-  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/8.png" width="200" />
-  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/9.png" width="200" />
-  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/10.png" width="200" />
-  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/11.png" width="200" />
-  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/12.png" width="200" />
-  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/12_1.png" width="200" />
-  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/13.png" width="200" />
-  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/14.png" width="200" />
-  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/15.png" width="200" />
-</p>
 
+<p float="left">
+  <img src="https://github.com/jnvshubham7/AnzanPro/raw/main/Screenshot/1.png" width="200" />
+    <img src="https://github.com/jnvshubham7/AnzanPro/raw/main/Screenshot/9.png" width="200" />
+  <img src="https://github.com/jnvshubham7/AnzanPro/raw/main/Screenshot/2.png" width="200" />
+  <img src="https://github.com/jnvshubham7/AnzanPro/raw/main/Screenshot/2_1.png" width="200" />
+  <img src="https://github.com/jnvshubham7/AnzanPro/raw/main/Screenshot/3.png" width="200" />
+  <img src="https://github.com/jnvshubham7/AnzanPro/raw/main/Screenshot/4.png" width="200" />
+  <img src="https://github.com/jnvshubham7/AnzanPro/raw/main/Screenshot/5.png" width="200" />
+  <img src="https://github.com/jnvshubham7/AnzanPro/raw/main/Screenshot/6.png" width="200" />
+  <img src="https://github.com/jnvshubham7/AnzanPro/raw/main/Screenshot/8.png" width="200" />
+
+</p>
 
 ---
 
@@ -34,7 +25,7 @@
 
 ### 1️⃣ **AnzanPro Student**
 
-*Interactive abacus learning app for kids aged 4-18*
+_Interactive abacus learning app for kids aged 4-18_
 
 **Key Features:**
 
@@ -51,7 +42,7 @@
 
 ### 2️⃣ **AnzanPro Tutor**
 
-*Professional teaching platform for educators*
+_Professional teaching platform for educators_
 
 **Key Features:**
 
@@ -100,7 +91,6 @@
 ---
 
 ## 📱 Screenshots
-
 
 ---
 
@@ -154,7 +144,7 @@ Hosting:   Google Cloud Platform
 
 ---
 
-*"Empowering minds, one bead at a time."* 🧮✨
+_"Empowering minds, one bead at a time."_ 🧮✨
 
 ---
 
@@ -164,5 +154,5 @@ Hosting:   Google Cloud Platform
 
 ---
 
-*Last Updated: July 19, 2025*
-*Version: 1.0.2*
+_Last Updated: July 19, 2025_
+_Version: 1.0.2_
