@@ -10,7 +10,6 @@
   <img src="https://github.com/jnvshubham7/AnzanPro/raw/main/Screenshot/1.png" width="200"  height = "400/>
    
   <img src="https://github.com/jnvshubham7/AnzanPro/raw/main/Screenshot/2.png" width="200" />
-  <img src="https://github.com/jnvshubham7/AnzanPro/raw/main/Screenshot/2_1.png" width="200" />
   <img src="https://github.com/jnvshubham7/AnzanPro/raw/main/Screenshot/3.png" width="200" />
   <img src="https://github.com/jnvshubham7/AnzanPro/raw/main/Screenshot/4.png" width="200" />
   <img src="https://github.com/jnvshubham7/AnzanPro/raw/main/Screenshot/5.png" width="200" />
