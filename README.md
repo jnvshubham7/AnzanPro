@@ -5,6 +5,29 @@
 
 **AnzanPro** is a comprehensive digital abacus learning platform developed over **6 months** with **2000+ commits**. The project consists of two specialized mobile applications designed to make mental math learning interactive and effective.
 
+
+
+## Screenshots
+<p float="left">
+  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/1.png" width="200" />
+  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/2.png" width="200" />
+  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/2_1.png" width="200" />
+  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/3.png" width="200" />
+  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/4.png" width="200" />
+  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/5.png" width="200" />
+  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/6.png" width="200" />
+  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/8.png" width="200" />
+  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/9.png" width="200" />
+  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/10.png" width="200" />
+  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/11.png" width="200" />
+  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/12.png" width="200" />
+  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/12_1.png" width="200" />
+  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/13.png" width="200" />
+  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/14.png" width="200" />
+  <img src="https://github.com/jnvshubham7/AnazanPro/raw/main/Screenshot/15.png" width="200" />
+</p>
+
+
 ---
 
 ## 📱 Two Applications
